@@ -1,0 +1,12 @@
+superadmin :
+username = superadmin
+password = superadmin
+
+admin :
+username = admin
+password = admin
+
+nama database  = 'magang' (untuk settingan database bisa diganti pada file .env)
+
+untuk siteKey dan SecretKey Recaptha Google bisa diedit sesuai email kominfo di .env
+link Akses Recaptha Google : https://www.google.com/recaptcha/admin

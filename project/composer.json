@@ -1,0 +1,7 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "dompdf/dompdf": "^2.0",
+        "mpdf/mpdf": "^8.0.13"
+    }
+}
